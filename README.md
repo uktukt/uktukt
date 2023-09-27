@@ -7,4 +7,5 @@
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/dovile-meskauskaite-5a0a3967/)
 - ⚡ Hobbies: 🦮🎧📚🚴‍♀️
 
+Visitor Count:
 ![Visitor Count](https://profile-counter.glitch.me/uktukt/count.svg)
