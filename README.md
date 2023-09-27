@@ -5,7 +5,7 @@
 - 🌱 Constant self-learning
 - 🔭 I'm currently working as a Project manager with a focus on data analytics.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Dovilė-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dovile-meskauskaite-5a0a3967/)](https://www.linkedin.com/in/dovile-meskauskaite-5a0a3967/)
-[![Gmail Badge](https://img.shields.io/badge/-dovile@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dovile@gmail.com)](mailto:dovile@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-dovime@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dovime@gmail.com)](mailto:dovime@gmail.com)
 - ⚡ Hobbies: 🦮🎧📚🚴‍♀️
 
 Visitors Count:
